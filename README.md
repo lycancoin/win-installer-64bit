@@ -1,6 +1,6 @@
-# win-installer-64bit
+# Lycancoin Windows 64-bit Installer
 
-Official Lycancoin Windows 64 bit installer that has been scanned for viruses and whitelisted by Windows Defender.
+Official Lycancoin Windows 64-bit installer that has been scanned for viruses and whitelisted by Windows Defender.
 
 Virustotal.com security scan:
 https://www.virustotal.com/gui/file/c69782698f53320acf1c29d41ec92f4e22c82dbe4b9bc706251095c5d2baca04
